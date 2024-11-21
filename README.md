@@ -1,6 +1,6 @@
 # JointPGM
 
-This is the official codebase for the paper: [Robust Multivariate Time Series Forecasting with Joint Probabilistic Modeling of Intra/Inter-Series Transitional Shift](https://arxiv.org/pdf/xxxx.pdf). 
+This is the official codebase for the paper: Robust Multivariate Time Series Forecasting with Joint Probabilistic Modeling of Intra/Inter-Series Transitional Shift. 
 
 ## Introduction
 
@@ -25,17 +25,4 @@ bash ./scripts/ETTm2/JointPGM.sh
 bash ./scripts/exchange_rate/JointPGM.sh
 bash ./scripts/ili/JointPGM.sh
 bash ./scripts/metr/JointPGM.sh
-```
-
-## Citation
-
-If you find this repo useful, please cite our paper. 
-
-```
-@article{xxx,
-  title={Robust Multivariate Time Series Forecasting with Joint Probabilistic Modeling of Intra/Inter-Series Transitional Shift},
-  author={xxx},
-  journal={arXiv preprint arXiv:xxx},
-  year={2024}
-}
 ```
