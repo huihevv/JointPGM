@@ -1,6 +1,6 @@
 # JointPGM
 
-This is the official codebase for the paper: Robust Multivariate Time Series Forecasting with Joint Probabilistic Modeling of Intra/Inter-Series Transitional Shift. 
+This is the official codebase for the paper: Robust Multivariate Time Series Forecasting against Intra- and Inter-Series Transitional Shift. 
 
 ## Introduction
 
